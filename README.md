@@ -1,14 +1,14 @@
-# Hi there, I'm Ricardo! 👋
+# Hi there, I'm Ricardo!
 
 I am a 3rd-year **Computer Engineering** student at the University of Granada, specializing in **Information Technology (IT)**. I have a strong interest in low-level systems, architecture, data management, and securing infrastructures. I like my code structured, optimized, and built to last.
 
-- 🛠️ Currently diving deeper into network administration, systems optimization, and databases.
-- 🐧 Linux enthusiast (Kubuntu/Kali) — I love customizing my environment and scripting to automate tasks.
-- ⚙️ Always looking for ways to balance backend performance with robust system security.
+-  Currently diving deeper into network administration, systems optimization, and databases.
+-  Linux enthusiast (Kubuntu/Kali) — I love customizing my environment and scripting to automate tasks.
+-  Always looking for ways to balance backend performance with robust system security.
 
 ---
 
-### 🚀 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Core Development**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-flat&logo=c%2B%2B&logoColor=white)
@@ -23,7 +23,7 @@ I am a 3rd-year **Computer Engineering** student at the University of Granada, s
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="Ricardo's GitHub Stats" height="160px"/>
